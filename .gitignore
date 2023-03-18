@@ -16,3 +16,4 @@ package-lock.json
 *.launch
 .settings/
 *.sublime-workspace
+publish.sh

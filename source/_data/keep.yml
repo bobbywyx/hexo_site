@@ -16,6 +16,8 @@ base_info:
   # Your blog website author name
   author: Yixin
 
+  url: https://yixin.v6.navy
+
 # ---------------------------------------------------------------------------------------
 # Theme style settings
 # Docs: https://keep-docs.xpoet.cn/tutorial/configuration-guide/style.html
@@ -51,7 +53,7 @@ style:
 
   # First screen style settings
   first_screen:
-    enable: false  # Option values: true | false
+    enable: true  # Option values: true | false
 
     # Set transparent background for header
     header_transparent: false  # Option values: true | false
@@ -89,7 +91,7 @@ menu:
   Archives: /archives
   Tags: /tags
   Categories: /categories
-  # Links: /links
+  Links: /links
   # About: /about
   # Changelog: /changelog
   # ......
